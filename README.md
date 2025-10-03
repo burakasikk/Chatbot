@@ -1,5 +1,5 @@
-electrozirve.com
+https://electrozirve.com/
 
-electrozirve.de
+https://electrozirve.de/
 
-blog.electrozirve.com
+https://blog.electrozirve.com/
